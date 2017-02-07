@@ -1,0 +1,2 @@
+# stravacita
+Exploring Strava API
